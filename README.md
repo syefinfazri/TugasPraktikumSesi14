@@ -1,11 +1,11 @@
 
 # Tugas Praktikum Sesi 11 – Selection Sort
 
-**Nama**: Syefin Fazri Nugraha
-**NIM**: 20210040097
-**Kelas**: TI25F
-**Mata Kuliah**: Algoritma dan Struktur Data
-**Dosen Pengampu**: Shinta Ayuningtias, S.Kom., M.Kom
+* **Nama**: Syefin Fazri Nugraha
+* **NIM**: 20210040097
+* **Kelas**: TI25F
+* **Mata Kuliah**: Algoritma dan Struktur Data
+* **Dosen Pengampu**: Shinta Ayuningtias, S.Kom., M.Kom
 
 ---
 
