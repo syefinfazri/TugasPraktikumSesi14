@@ -1,5 +1,5 @@
 
-# Tugas Praktikum Sesi 11 – Selection Sort
+# Tugas Praktikum Sesi 14 – Selection Sort
 
 * **Nama**: Syefin Fazri Nugraha
 * **NIM**: 20210040097
